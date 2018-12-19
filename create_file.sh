@@ -1,4 +1,4 @@
-# Take a string fromm user and check whether a file 
+# Take a string from user and check whether a file 
 # with same name is present in folder if not then create a 
 # a file with same name and write n nuber of lines in the 
 # newly created file(n will be entered by user).
